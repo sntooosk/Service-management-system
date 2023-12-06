@@ -1,6 +1,5 @@
 
 # Java MySQL - Sistema para gestão de serviços
-Desenvolva **passo a passo** do zero um sistema para gestão de ordem de serviços (**Sistema OS**) de uma assistência técnica de computadores e periféricos. Este projeto é muito popular e serve como modelo para outros projetos de gestão de serviços, como por exemplo assistências técnicas de smartphones, eletrodomésticos, oficinas mecânicas etc. Este tutorial fornece uma base sólida a todos que desejam aprender a desenvolver um sistema desktop usando a linguagem Java e o banco de dados MySQL.
 
 ### Bibliotecas
 [atxy2k](http://atxy2k.github.io/RestrictedTextField/)
@@ -17,8 +16,7 @@ Desenvolva **passo a passo** do zero um sistema para gestão de ordem de serviç
 
 [Inno Setup](https://jrsoftware.org/isinfo.php)
 
-## Instalação da versão de demontração (projeto modelo)
-Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local (Windows) para fins de desenvolvimento e testes. Assista a playlist para aprender a instalar este projeto em outros sistemas, modificar este projeto modelo, migrar o banco de dados para um servidor Linux e implantar em um sistema ativo.
+
 ### Pré requisitos:
 É necessário ter instalado no computador:
 * Java JDK 8
