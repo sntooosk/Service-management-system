@@ -14,10 +14,16 @@ Este projeto consiste em um sistema de gestão de serviços desenvolvido em Java
 - [iReport-5.6.0](https://sourceforge.net/projects/ireport/)
 - [Inno Setup](https://jrsoftware.org/isinfo.php)
 
-## Pré-requisitos
-É necessário ter instalado no computador:
-- Java JDK 8
-- Banco de dados MySQL versão 8
+## • Referências e documentações
+
+| **[Java](https://docs.oracle.com/en/java/javase/17/)** 
+| **[MySQL](https://dev.mysql.com/doc/)** |
+
+## • Observações
+
+**⚠️ Projeto com finalidades educativas. Sem fins lucrativos. ⚠️**
+
+
 
 ## Instalação
 1. Execute o banco de dados MySQL (localhost) como root, sem senha definida (senha em branco).
